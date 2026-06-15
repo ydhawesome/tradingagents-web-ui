@@ -25,8 +25,7 @@ watch the agent pipeline run live, and read the rendered report in your browser.
 
 ## Screenshot / 截图
 
-<!-- 把你的截图放到 docs/ 并改这里的路径 / drop a screenshot in docs/ and update this -->
-<!-- ![screenshot](docs/screenshot.png) -->
+![screenshot](docs/screenshot.png)
 
 ## Install / 安装
 
