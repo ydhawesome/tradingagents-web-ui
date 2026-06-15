@@ -1,0 +1,4 @@
+streamlit>=1.30
+python-dotenv>=1.0
+# TradingAgents 核心引擎（从官方仓库安装）/ core engine from upstream
+tradingagents @ git+https://github.com/TauricResearch/TradingAgents.git

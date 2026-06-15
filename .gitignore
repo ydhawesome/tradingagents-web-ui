@@ -1,0 +1,17 @@
+# 绝不提交密钥 / 环境
+.env
+.env.*
+!.env.example
+
+# Python
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+
+# 运行产物
+reports/
+*.log
+.streamlit/secrets.toml
